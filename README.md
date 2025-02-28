@@ -1,1 +1,1 @@
-Python Code with Digital Image Processing technologies for skin lesion detection and analysis.
+Python Code with Digital Image Processing Technologies for Skin lesion detection and analysis.
